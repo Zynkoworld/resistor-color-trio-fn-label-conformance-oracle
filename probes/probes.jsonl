@@ -1,0 +1,8 @@
+{"input": ["orange", "orange", "black"], "expect": "33 ohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["blue", "grey", "brown"], "expect": "680 ohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["red", "black", "red"], "expect": "2 kiloohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["green", "brown", "orange"], "expect": "51 kiloohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["yellow", "violet", "yellow"], "expect": "470 kiloohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["blue", "violet", "blue"], "expect": "67 megaohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["black", "black", "black"], "expect": "0 ohms", "task": "resistor-color-trio", "lang": "python"}
+{"input": ["white", "white", "white"], "expect": "99 gigaohms", "task": "resistor-color-trio", "lang": "python"}
